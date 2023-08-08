@@ -12,3 +12,4 @@ result.sort() # result 오름차순 정렬
 
 if value != 0:
   print(''.join(result) + str(value))
+        # value가 0이 아니라면 result 문자열로 변경 + value
