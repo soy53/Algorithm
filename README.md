@@ -5,4 +5,3 @@
 
 ### 2. 이것이 취업을 위한 코딩테스트다 with 파이썬 → [Link](https://github.com/soy53/Algorithm/tree/main/test)
 
-### 3. 프로그래머스
