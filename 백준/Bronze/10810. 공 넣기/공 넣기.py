@@ -7,5 +7,4 @@ for i in range(m):
   for j in range(a, b+1):
     basket[j-1] = c
 
-for k in basket:
-  print(k, end=" ")
+print(' '.join(map(str, basket)))
