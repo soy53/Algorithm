@@ -15,5 +15,5 @@ for i in range(28):
 for j in x:
     print(j)
 
-# 길이도 시간도 가장 짧은 코드_*, ^, set 이용
+# 길이도 시간도 가장 짧은 코드_*, ^(대칭차집합), set 이용
 print(*{*map(int,open(0))}^{*range(1,31)})
