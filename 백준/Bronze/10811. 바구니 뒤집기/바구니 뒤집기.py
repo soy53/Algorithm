@@ -8,3 +8,5 @@ for _ in range(m):
  
 for k in basket:
   print(k, end=" ")
+#print(*basket)
+# * 리스트 안에 있는 수들을 풀어서 써주는 역할
